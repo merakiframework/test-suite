@@ -19,5 +19,8 @@
     },
     "scripts": {
         "tests": "phpunit --version"
+    },
+    "require-dev": {
+        "phpstan/phpstan-phpunit": "^0.11.1"
     }
 }
