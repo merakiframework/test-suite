@@ -3,7 +3,8 @@
     "require": {
         "phpunit/phpunit": "^8.0",
         "php": "^7.3",
-        "phpstan/phpstan": "^0.11.6"
+        "phpstan/phpstan": "^0.11.6",
+        "phpstan/phpstan-phpunit": "^0.11.1"
     },
     "license": "MIT",
     "authors": [
